@@ -21,8 +21,10 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: TimerMinutes
-  m_Shader: {fileID: -6465566751694194690, guid: fc9b842dbfc73654c975bc97bf4b96b0, type: 3}
-  m_Parent: {fileID: -876546973899608171, guid: fc9b842dbfc73654c975bc97bf4b96b0, type: 3}
+  m_Shader: {fileID: -6465566751694194690, guid: 01f8be3c34d11cb4a9f5ba1267efa424,
+    type: 3}
+  m_Parent: {fileID: -876546973899608171, guid: 01f8be3c34d11cb4a9f5ba1267efa424,
+    type: 3}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
   m_InvalidKeywords: []
@@ -39,6 +41,7 @@ Material:
     m_TexEnvs: []
     m_Ints: []
     m_Floats:
+    - _Minutes: 1
     - _QueueControl: 0
     - _VALUE: 2
     m_Colors:
