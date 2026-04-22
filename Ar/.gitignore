@@ -78,3 +78,8 @@ crashlytics-build.properties
 ehthumbs.db
 Thumbs.db
 .vsconfig
+
+/Assets/HUD Elements.meta
+/Assets/Matrix_effect.meta
+/Assets/Piloto Studio.meta
+*.blend1.meta
