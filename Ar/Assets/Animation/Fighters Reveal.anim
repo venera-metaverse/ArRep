@@ -31,72 +31,6 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 6.2
-        value: 10.938511
-        inSlope: 2.516322
-        outSlope: 2.516322
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.58131105
-      - serializedVersion: 3
-        time: 7.366667
-        value: 7.712438
-        inSlope: 3.052562
-        outSlope: 3.052562
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 10.016666
-        value: 18.397234
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 10.55
-        value: 10.354396
-        inSlope: 0.011175501
-        outSlope: 0.011175501
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 1
-      - serializedVersion: 3
-        time: 12.55
-        value: 38.267338
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: material._RevealThreshold
-    path: Head_Head
-    classID: 137
-    script: {fileID: 0}
-    flags: 16
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 3.8333333
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
         time: 4.4666667
         value: 1
         inSlope: 0
@@ -127,7 +61,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: InitialModule.startColor.maxColor.r
-    path: PlasmaBlue/Aura/Aura_Vertical
+    path: Portal/Aura/Aura_Vertical
     classID: 198
     script: {fileID: 0}
     flags: 0
@@ -175,7 +109,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: InitialModule.startColor.maxColor.g
-    path: PlasmaBlue/Aura/Aura_Vertical
+    path: Portal/Aura/Aura_Vertical
     classID: 198
     script: {fileID: 0}
     flags: 0
@@ -223,307 +157,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: InitialModule.startColor.maxColor.b
-    path: PlasmaBlue/Aura/Aura_Vertical
-    classID: 198
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 2.0333333
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 15.866667
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 17.033333
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: InitialModule.startColor.maxColor.r
-    path: PlasmaBlue/Aura/Ground_Noise
-    classID: 198
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 2.0333333
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 15.866667
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 17.033333
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: InitialModule.startColor.maxColor.g
-    path: PlasmaBlue/Aura/Ground_Noise
-    classID: 198
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 2.0333333
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 15.866667
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 17.033333
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: InitialModule.startColor.maxColor.b
-    path: PlasmaBlue/Aura/Ground_Noise
-    classID: 198
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 1.0333333
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 2.0333333
-        value: 0.80784315
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 17.033333
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: InitialModule.startColor.maxColor.a
-    path: PlasmaBlue/Aura/Ground_Noise
-    classID: 198
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 4.366667
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 5.3
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 10.3
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 11.15
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: InitialModule.startColor.maxColor.r
-    path: PlasmaBlue/Aura/Trails
-    classID: 198
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 4.366667
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 5.3
-        value: 0.647998
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 10.3
-        value: 0.647998
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 11.15
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: InitialModule.startColor.maxColor.g
-    path: PlasmaBlue/Aura/Trails
-    classID: 198
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 4.366667
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 5.3
-        value: 0.8679245
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 10.3
-        value: 0.8679245
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 11.15
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: InitialModule.startColor.maxColor.b
-    path: PlasmaBlue/Aura/Trails
+    path: Portal/Aura/Aura_Vertical
     classID: 198
     script: {fileID: 0}
     flags: 0
@@ -571,7 +205,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: InitialModule.startColor.minColor.r
-    path: PlasmaBlue/Aura/Trails
+    path: Portal/Aura/Trails
     classID: 198
     script: {fileID: 0}
     flags: 0
@@ -619,7 +253,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: InitialModule.startColor.minColor.g
-    path: PlasmaBlue/Aura/Trails
+    path: Portal/Aura/Trails
     classID: 198
     script: {fileID: 0}
     flags: 0
@@ -667,7 +301,151 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: InitialModule.startColor.minColor.b
-    path: PlasmaBlue/Aura/Trails
+    path: Portal/Aura/Trails
+    classID: 198
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 4.366667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 5.3
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 10.3
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 11.15
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: InitialModule.startColor.maxColor.r
+    path: Portal/Aura/Trails
+    classID: 198
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 4.366667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 5.3
+        value: 0.647998
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 10.3
+        value: 0.647998
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 11.15
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: InitialModule.startColor.maxColor.g
+    path: Portal/Aura/Trails
+    classID: 198
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 4.366667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 5.3
+        value: 0.8679245
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 10.3
+        value: 0.8679245
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 11.15
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: InitialModule.startColor.maxColor.b
+    path: Portal/Aura/Trails
     classID: 198
     script: {fileID: 0}
     flags: 0
@@ -706,7 +484,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: InitialModule.startColor.maxColor.r
-    path: PlasmaBlue/Aura/Fuzz_Dark_Ground
+    path: Portal/Aura/Fuzz_Dark_Ground
     classID: 198
     script: {fileID: 0}
     flags: 0
@@ -745,7 +523,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: InitialModule.startColor.maxColor.g
-    path: PlasmaBlue/Aura/Fuzz_Dark_Ground
+    path: Portal/Aura/Fuzz_Dark_Ground
     classID: 198
     script: {fileID: 0}
     flags: 0
@@ -784,7 +562,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: InitialModule.startColor.maxColor.b
-    path: PlasmaBlue/Aura/Fuzz_Dark_Ground
+    path: Portal/Aura/Fuzz_Dark_Ground
     classID: 198
     script: {fileID: 0}
     flags: 0
@@ -823,7 +601,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: InitialModule.startColor.maxColor.a
-    path: PlasmaBlue/Aura/Fuzz_Dark_Ground
+    path: Portal/Aura/Fuzz_Dark_Ground
     classID: 198
     script: {fileID: 0}
     flags: 0
@@ -880,7 +658,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: material._MainTextureOffset.x
-    path: PlasmaBlue/Aura/Aura_Vertical
+    path: Portal/Aura/Aura_Vertical
     classID: 199
     script: {fileID: 0}
     flags: 0
@@ -919,7 +697,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: material._MainTextureOffset.y
-    path: PlasmaBlue/Aura/Aura_Vertical
+    path: Portal/Aura/Aura_Vertical
     classID: 199
     script: {fileID: 0}
     flags: 0
@@ -958,7 +736,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: material._MainTextureOffset.z
-    path: PlasmaBlue/Aura/Aura_Vertical
+    path: Portal/Aura/Aura_Vertical
     classID: 199
     script: {fileID: 0}
     flags: 0
@@ -997,8 +775,74 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: material._MainTextureOffset.w
-    path: PlasmaBlue/Aura/Aura_Vertical
+    path: Portal/Aura/Aura_Vertical
     classID: 199
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 3.8333333
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 6.2
+        value: 10.938511
+        inSlope: 2.516322
+        outSlope: 2.516322
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.58131105
+      - serializedVersion: 3
+        time: 7.366667
+        value: 7.712438
+        inSlope: 3.052562
+        outSlope: 3.052562
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 10.016666
+        value: 18.397234
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 10.55
+        value: 10.354396
+        inSlope: 0.011175501
+        outSlope: 0.011175501
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 1
+      - serializedVersion: 3
+        time: 12.55
+        value: 38.267338
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._RevealThreshold
+    path: FightersAnimation/Head_Head
+    classID: 137
     script: {fileID: 0}
     flags: 0
   m_PPtrCurves: []
@@ -1010,16 +854,7 @@ AnimationClip:
   m_ClipBindingConstant:
     genericBindings:
     - serializedVersion: 2
-      path: 959107031
-      attribute: 2341140784
-      script: {fileID: 0}
-      typeID: 137
-      customType: 22
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 1127897757
+      path: 672796254
       attribute: 4078873663
       script: {fileID: 0}
       typeID: 198
@@ -1028,7 +863,7 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     - serializedVersion: 2
-      path: 1127897757
+      path: 672796254
       attribute: 2663598292
       script: {fileID: 0}
       typeID: 198
@@ -1037,7 +872,7 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     - serializedVersion: 2
-      path: 1127897757
+      path: 672796254
       attribute: 4004101211
       script: {fileID: 0}
       typeID: 198
@@ -1046,61 +881,7 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     - serializedVersion: 2
-      path: 3300900454
-      attribute: 4078873663
-      script: {fileID: 0}
-      typeID: 198
-      customType: 27
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 3300900454
-      attribute: 2663598292
-      script: {fileID: 0}
-      typeID: 198
-      customType: 27
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 3300900454
-      attribute: 4004101211
-      script: {fileID: 0}
-      typeID: 198
-      customType: 27
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 3300900454
-      attribute: 2007035361
-      script: {fileID: 0}
-      typeID: 198
-      customType: 27
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 2069369496
-      attribute: 2663598292
-      script: {fileID: 0}
-      typeID: 198
-      customType: 27
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 2069369496
-      attribute: 4004101211
-      script: {fileID: 0}
-      typeID: 198
-      customType: 27
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 2069369496
+      path: 1360588914
       attribute: 4061279883
       script: {fileID: 0}
       typeID: 198
@@ -1109,7 +890,7 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     - serializedVersion: 2
-      path: 2069369496
+      path: 1360588914
       attribute: 2681197152
       script: {fileID: 0}
       typeID: 198
@@ -1118,7 +899,7 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     - serializedVersion: 2
-      path: 2069369496
+      path: 1360588914
       attribute: 4020578031
       script: {fileID: 0}
       typeID: 198
@@ -1127,16 +908,7 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     - serializedVersion: 2
-      path: 3400942452
-      attribute: 4078873663
-      script: {fileID: 0}
-      typeID: 198
-      customType: 27
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 3400942452
+      path: 1360588914
       attribute: 2663598292
       script: {fileID: 0}
       typeID: 198
@@ -1145,7 +917,7 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     - serializedVersion: 2
-      path: 3400942452
+      path: 1360588914
       attribute: 4004101211
       script: {fileID: 0}
       typeID: 198
@@ -1154,25 +926,7 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     - serializedVersion: 2
-      path: 3400942452
-      attribute: 2007035361
-      script: {fileID: 0}
-      typeID: 198
-      customType: 27
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 1127897757
-      attribute: 247191635
-      script: {fileID: 0}
-      typeID: 199
-      customType: 22
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 2069369496
+      path: 3169244062
       attribute: 4078873663
       script: {fileID: 0}
       typeID: 198
@@ -1181,7 +935,61 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     - serializedVersion: 2
-      path: 1127897757
+      path: 3169244062
+      attribute: 2663598292
+      script: {fileID: 0}
+      typeID: 198
+      customType: 27
+      isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    - serializedVersion: 2
+      path: 3169244062
+      attribute: 4004101211
+      script: {fileID: 0}
+      typeID: 198
+      customType: 27
+      isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    - serializedVersion: 2
+      path: 3169244062
+      attribute: 2007035361
+      script: {fileID: 0}
+      typeID: 198
+      customType: 27
+      isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    - serializedVersion: 2
+      path: 672796254
+      attribute: 247191635
+      script: {fileID: 0}
+      typeID: 199
+      customType: 22
+      isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    - serializedVersion: 2
+      path: 1878124025
+      attribute: 2341140784
+      script: {fileID: 0}
+      typeID: 137
+      customType: 22
+      isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    - serializedVersion: 2
+      path: 1360588914
+      attribute: 4078873663
+      script: {fileID: 0}
+      typeID: 198
+      customType: 27
+      isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    - serializedVersion: 2
+      path: 672796254
       attribute: 515627091
       script: {fileID: 0}
       typeID: 199
@@ -1190,7 +998,7 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     - serializedVersion: 2
-      path: 1127897757
+      path: 672796254
       attribute: 784062547
       script: {fileID: 0}
       typeID: 199
@@ -1199,7 +1007,7 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     - serializedVersion: 2
-      path: 1127897757
+      path: 672796254
       attribute: 1052498003
       script: {fileID: 0}
       typeID: 199
@@ -1213,7 +1021,7 @@ AnimationClip:
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-    m_StopTime: 17.033333
+    m_StopTime: 16.666666
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
@@ -1243,72 +1051,6 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 6.2
-        value: 10.938511
-        inSlope: 2.516322
-        outSlope: 2.516322
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.58131105
-      - serializedVersion: 3
-        time: 7.366667
-        value: 7.712438
-        inSlope: 3.052562
-        outSlope: 3.052562
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 10.016666
-        value: 18.397234
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 10.55
-        value: 10.354396
-        inSlope: 0.011175501
-        outSlope: 0.011175501
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 1
-      - serializedVersion: 3
-        time: 12.55
-        value: 38.267338
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: material._RevealThreshold
-    path: Head_Head
-    classID: 137
-    script: {fileID: 0}
-    flags: 16
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 3.8333333
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
         time: 4.4666667
         value: 1
         inSlope: 0
@@ -1339,7 +1081,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: InitialModule.startColor.maxColor.r
-    path: PlasmaBlue/Aura/Aura_Vertical
+    path: Portal/Aura/Aura_Vertical
     classID: 198
     script: {fileID: 0}
     flags: 0
@@ -1387,7 +1129,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: InitialModule.startColor.maxColor.g
-    path: PlasmaBlue/Aura/Aura_Vertical
+    path: Portal/Aura/Aura_Vertical
     classID: 198
     script: {fileID: 0}
     flags: 0
@@ -1435,307 +1177,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: InitialModule.startColor.maxColor.b
-    path: PlasmaBlue/Aura/Aura_Vertical
-    classID: 198
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 2.0333333
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 15.866667
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 17.033333
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: InitialModule.startColor.maxColor.r
-    path: PlasmaBlue/Aura/Ground_Noise
-    classID: 198
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 2.0333333
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 15.866667
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 17.033333
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: InitialModule.startColor.maxColor.g
-    path: PlasmaBlue/Aura/Ground_Noise
-    classID: 198
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 2.0333333
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 15.866667
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 17.033333
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: InitialModule.startColor.maxColor.b
-    path: PlasmaBlue/Aura/Ground_Noise
-    classID: 198
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 1.0333333
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 2.0333333
-        value: 0.80784315
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 17.033333
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: InitialModule.startColor.maxColor.a
-    path: PlasmaBlue/Aura/Ground_Noise
-    classID: 198
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 4.366667
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 5.3
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 10.3
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 11.15
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: InitialModule.startColor.maxColor.r
-    path: PlasmaBlue/Aura/Trails
-    classID: 198
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 4.366667
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 5.3
-        value: 0.647998
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 10.3
-        value: 0.647998
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 11.15
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: InitialModule.startColor.maxColor.g
-    path: PlasmaBlue/Aura/Trails
-    classID: 198
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 4.366667
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 5.3
-        value: 0.8679245
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 10.3
-        value: 0.8679245
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 11.15
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: InitialModule.startColor.maxColor.b
-    path: PlasmaBlue/Aura/Trails
+    path: Portal/Aura/Aura_Vertical
     classID: 198
     script: {fileID: 0}
     flags: 0
@@ -1783,7 +1225,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: InitialModule.startColor.minColor.r
-    path: PlasmaBlue/Aura/Trails
+    path: Portal/Aura/Trails
     classID: 198
     script: {fileID: 0}
     flags: 0
@@ -1831,7 +1273,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: InitialModule.startColor.minColor.g
-    path: PlasmaBlue/Aura/Trails
+    path: Portal/Aura/Trails
     classID: 198
     script: {fileID: 0}
     flags: 0
@@ -1879,7 +1321,151 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: InitialModule.startColor.minColor.b
-    path: PlasmaBlue/Aura/Trails
+    path: Portal/Aura/Trails
+    classID: 198
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 4.366667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 5.3
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 10.3
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 11.15
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: InitialModule.startColor.maxColor.r
+    path: Portal/Aura/Trails
+    classID: 198
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 4.366667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 5.3
+        value: 0.647998
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 10.3
+        value: 0.647998
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 11.15
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: InitialModule.startColor.maxColor.g
+    path: Portal/Aura/Trails
+    classID: 198
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 4.366667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 5.3
+        value: 0.8679245
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 10.3
+        value: 0.8679245
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 11.15
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: InitialModule.startColor.maxColor.b
+    path: Portal/Aura/Trails
     classID: 198
     script: {fileID: 0}
     flags: 0
@@ -1918,7 +1504,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: InitialModule.startColor.maxColor.r
-    path: PlasmaBlue/Aura/Fuzz_Dark_Ground
+    path: Portal/Aura/Fuzz_Dark_Ground
     classID: 198
     script: {fileID: 0}
     flags: 0
@@ -1957,7 +1543,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: InitialModule.startColor.maxColor.g
-    path: PlasmaBlue/Aura/Fuzz_Dark_Ground
+    path: Portal/Aura/Fuzz_Dark_Ground
     classID: 198
     script: {fileID: 0}
     flags: 0
@@ -1996,7 +1582,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: InitialModule.startColor.maxColor.b
-    path: PlasmaBlue/Aura/Fuzz_Dark_Ground
+    path: Portal/Aura/Fuzz_Dark_Ground
     classID: 198
     script: {fileID: 0}
     flags: 0
@@ -2035,7 +1621,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: InitialModule.startColor.maxColor.a
-    path: PlasmaBlue/Aura/Fuzz_Dark_Ground
+    path: Portal/Aura/Fuzz_Dark_Ground
     classID: 198
     script: {fileID: 0}
     flags: 0
@@ -2092,7 +1678,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: material._MainTextureOffset.x
-    path: PlasmaBlue/Aura/Aura_Vertical
+    path: Portal/Aura/Aura_Vertical
     classID: 199
     script: {fileID: 0}
     flags: 0
@@ -2131,7 +1717,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: material._MainTextureOffset.y
-    path: PlasmaBlue/Aura/Aura_Vertical
+    path: Portal/Aura/Aura_Vertical
     classID: 199
     script: {fileID: 0}
     flags: 0
@@ -2170,7 +1756,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: material._MainTextureOffset.z
-    path: PlasmaBlue/Aura/Aura_Vertical
+    path: Portal/Aura/Aura_Vertical
     classID: 199
     script: {fileID: 0}
     flags: 0
@@ -2209,8 +1795,74 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: material._MainTextureOffset.w
-    path: PlasmaBlue/Aura/Aura_Vertical
+    path: Portal/Aura/Aura_Vertical
     classID: 199
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 3.8333333
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 6.2
+        value: 10.938511
+        inSlope: 2.516322
+        outSlope: 2.516322
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.58131105
+      - serializedVersion: 3
+        time: 7.366667
+        value: 7.712438
+        inSlope: 3.052562
+        outSlope: 3.052562
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 10.016666
+        value: 18.397234
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 10.55
+        value: 10.354396
+        inSlope: 0.011175501
+        outSlope: 0.011175501
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 1
+      - serializedVersion: 3
+        time: 12.55
+        value: 38.267338
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._RevealThreshold
+    path: FightersAnimation/Head_Head
+    classID: 137
     script: {fileID: 0}
     flags: 0
   m_EulerEditorCurves: []

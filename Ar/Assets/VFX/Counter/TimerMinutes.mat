@@ -43,7 +43,7 @@ Material:
     m_Floats:
     - _Minutes: 1
     - _QueueControl: 0
-    - _TimeLeft: 1000
+    - _TimeLeft: 70
     - _VALUE: 2
     m_Colors:
     - _Color: {r: 0, g: 0.6392157, b: 1, a: 1}
