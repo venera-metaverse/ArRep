@@ -33,6 +33,7 @@ public class CrossPlatformARLauncher : MonoBehaviour
     [SerializeField] private float maximumPlacementDistanceMeters = 4f;
     [SerializeField] private int stablePlaneFramesRequired = 6;
     [SerializeField] private float placementRotationYOffset = 180f;
+    [SerializeField] private bool keepPlacedObjectFacingCameraOnY = false;
 
     [Header("Plane Visual")]
     [SerializeField] private bool showDetectedPlanes = true;
@@ -136,6 +137,7 @@ public class CrossPlatformARLauncher : MonoBehaviour
 
         if (objectPlacementLocked)
         {
+            UpdatePlacedObjectFacing();
             SetReticleVisible(false);
             if (hintCanvasObject != null)
                 hintCanvasObject.SetActive(false);
@@ -650,6 +652,14 @@ public class CrossPlatformARLauncher : MonoBehaviour
 
         return Quaternion.LookRotation(forward.normalized, Vector3.up) *
                Quaternion.Euler(0f, placementRotationYOffset, 0f);
+    }
+
+    private void UpdatePlacedObjectFacing()
+    {
+        if (!keepPlacedObjectFacingCameraOnY || placedObject == null)
+            return;
+
+        placedObject.transform.rotation = BuildPlacementRotation();
     }
 
     private static InputAction CreatePositionAction()

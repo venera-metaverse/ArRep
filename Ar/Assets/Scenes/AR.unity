@@ -436,6 +436,7 @@ MonoBehaviour:
   maximumPlacementDistanceMeters: 4
   stablePlaneFramesRequired: 6
   placementRotationYOffset: 180
+  keepPlacedObjectFacingCameraOnY: 1
   showDetectedPlanes: 1
   hideDetectedPlanesAfterPlacement: 1
   planeFillColor: {r: 0.1, g: 0.9, b: 0.55, a: 0.22}
@@ -465,11 +466,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: MainCanvas
-      objectReference: {fileID: 0}
-    - target: {fileID: 1795806248082864516, guid: f986c1c5599da9f4e98de423181aa637,
-        type: 3}
-      propertyPath: m_SizeDelta.y
-      value: 3185.5515
       objectReference: {fileID: 0}
     - target: {fileID: 2957069128532733065, guid: f986c1c5599da9f4e98de423181aa637,
         type: 3}
