@@ -1,12 +1,19 @@
 {
   "dependencies": {
-    "com.easyar.sense": "file:com.easyar.sense-4000.0.1+4885.aaa733e51.tgz",
+    "com.ivanmurzak.unity.mcp": "0.67.3",
     "com.jimmycushnie.noisynodes": "https://github.com/JimmyCushnie/Noisy-Nodes.git",
+    "com.nomorepain.editor": "https://github.com/M-A-L-bl-LLl/NoMorePainEditor.git",
+    "com.unity.2d.sprite": "1.0.0",
     "com.unity.cinemachine": "2.10.4",
     "com.unity.collab-proxy": "2.12.4",
+    "com.unity.device-simulator.devices": "1.0.1",
+    "com.unity.editorcoroutines": "file:OfflinePackages/com.unity.editorcoroutines-1.0.0.tgz",
     "com.unity.ide.rider": "3.0.38",
     "com.unity.ide.visualstudio": "2.0.25",
     "com.unity.ide.vscode": "1.2.5",
+    "com.unity.inputsystem": "file:OfflinePackages/com.unity.inputsystem-1.16.0.tgz",
+    "com.unity.mathematics": "file:OfflinePackages/com.unity.mathematics-1.3.2.tgz",
+    "com.unity.mobile.android-logcat": "1.4.7",
     "com.unity.multiplayer.center": "1.0.0",
     "com.unity.render-pipelines.universal": "17.2.0",
     "com.unity.shadergraph": "17.2.0",
@@ -14,6 +21,12 @@
     "com.unity.timeline": "1.8.9",
     "com.unity.ugui": "2.0.0",
     "com.unity.visualscripting": "1.9.8",
+    "com.unity.xr.arcore": "file:OfflinePackages/com.unity.xr.arcore-6.2.1.tgz",
+    "com.unity.xr.arfoundation": "file:OfflinePackages/com.unity.xr.arfoundation-6.2.1.tgz",
+    "com.unity.xr.arkit": "file:OfflinePackages/com.unity.xr.arkit-6.2.1.tgz",
+"com.unity.xr.core-utils": "file:OfflinePackages/com.unity.xr.core-utils-2.5.3.tgz",
+    "com.unity.xr.legacyinputhelpers": "file:OfflinePackages/com.unity.xr.legacyinputhelpers-2.1.12.tgz",
+    "com.unity.xr.management": "file:OfflinePackages/com.unity.xr.management-4.5.3.tgz",
     "com.unity.modules.accessibility": "1.0.0",
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.androidjni": "1.0.0",
@@ -46,5 +59,15 @@
     "com.unity.modules.vr": "1.0.0",
     "com.unity.modules.wind": "1.0.0",
     "com.unity.modules.xr": "1.0.0"
-  }
+  },
+  "scopedRegistries": [
+    {
+      "name": "package.openupm.com",
+      "url": "https://package.openupm.com",
+      "scopes": [
+        "com.ivanmurzak",
+        "extensions.unity"
+      ]
+    }
+  ]
 }
